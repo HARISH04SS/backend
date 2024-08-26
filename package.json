@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/HARISH04SS/backend/issues"
   },
-  "homepage": "https://github.com/HARISH04SS/backend#readme"
+  "homepage": "https://github.com/HARISH04SS/backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
